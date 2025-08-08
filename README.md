@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="ChatGPT Image Aug 8, 2025, 03_55_32 PM.png"  />
 </div>
 
 ###
@@ -18,6 +18,10 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Karan5201.Karan5201&"  />
 </div>
+
+###
+
+<h1 align="center"></h1>
 
 ###
 
@@ -67,7 +71,7 @@
 
 ###
 
-<h4 align="left">| Category              | Tools & Technologies |<br>|-----------------------|----------------------|<br>| **Programming**       | Python, DAX, SQL     |<br>| **Data Analytics**    | Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn |<br>| **Data Visualization**| Power BI, Tableau, Looker |<br>| **Databases**         | MySQL, MSSQL, MariaDB |<br>| **Cloud Platforms**   | AWS S3, MS Azure, Snowflake, Google Cloud Platform |<br>| **DevOps**            | GitHub, GitLab, CI/CD |<br>| **OS & Tools**        | Windows, Mac, Linux  |</h4>
+<h4 align="left">🧑‍💻 Programming Languages = Python, DAX, SQL<br>📊 Data Analytics & Libraries = Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn<br>📈 Data Visualization Tools = Power BI, Tableau, Looker<br>🗄️ Databases = MySQL, MSSQL, MariaDB<br>☁️ Cloud Platforms = AWS S3, Microsoft Azure, Snowflake, Google Cloud Platform<br>🔧 DevOps & Tools = GitHub, GitLab, CI/CD<br>💻 Operating Systems = Windows, MacOS, Linux</h4>
 
 ###
 
@@ -75,7 +79,7 @@
 
 ###
 
-<h4 align="left">- **📊 Data Analysis:** Extract insights and trends from your business data.<br>- **📈 Business Intelligence Dashboards:** Build actionable dashboards for decision-making.<br>- **🧠 Machine Learning:** Develop models for predictive insights.<br>- **🖥️ Custom Software Solutions:** Tailored tools for your specific business needs.</h4>
+<h4 align="left">📊 Data Analysis: Extract insights and trends from your business data.<br><br>📈 Business Intelligence Dashboards: Build actionable dashboards for decision-making.<br><br>🧠 Machine Learning: Develop models for predictive insights.<br><br>🖥️ Custom Software Solutions: Tailored tools for your specific business needs.</h4>
 
 ###
 
@@ -83,7 +87,7 @@
 
 ###
 
-<h4 align="left">- [🔗 Power BI Dashboards](https://github.com/karan5201/power-bi)<br>  - Finance, Sales, and Marketing dashboards with real-time filters<br>- [🔗 SQL Projects](https://github.com/karan5201/SQL)<br>  - Structured queries, data modeling, stored procedures for banking systems<br>- [🔗 Data Analysis Work](https://github.com/karan5201)<br>  - Exploratory data analysis, battery aging project, and more</h4>
+<h4 align="left">📊 Power BI Dashboards: Finance, Sales, and Marketing dashboards with real-time filters<br><br>🗄️ SQL Projects: Structured queries, data modeling, and stored procedures for banking systems<br><br>📈 Data Analysis Work: Exploratory data analysis and more</h4>
 
 ###
 
