@@ -1,9 +1,9 @@
-<h1 align="center">👋 Hi there, I'm Karankumar Hirapara</h1>
+<h1 align="center">👋 Hallo Guten Tag</h1>
 
 ###
 
 <div align="center">
-  <img height="200" src="ChatGPT Image Aug 8, 2025, 03_55_32 PM.png"  />
+  <img height="250" src="ChatGPT Image Aug 8, 2025, 03_55_32 PM.png"  />
 </div>
 
 ###
